@@ -6,13 +6,6 @@
 	/>
 </p>
 
-<p align="center">
-	<img
-		src="https://cataas.com/cat/gif"
-		alt="Animated cat GIF"
-		width="700"
-	/>
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venushan-thiruchelvam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venushanthiruchelvam@gmail.com) 
