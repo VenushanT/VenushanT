@@ -1,19 +1,17 @@
 
 <p align="center">
 	<img
-		src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Python+%7C+TypeScript+%7C+C%2B%2B;Design+%28Figma%2C+Framer%29"
-		alt="Typing animation highlighting: Full-stack Developer • React • Next.js • Node.js • Spring Boot • Python • TypeScript • C++ • Figma • Framer"
+		src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&color=36BCF7&background=0D111700&center=true&vCenter=true&width=900&lines=$+hello%2C+I%27m+Venushan;$+full-stack+dev:+React%2C+Next.js%2C+Node%2C+Spring+Boot;$+python%2C+typescript%2C+c%2B%2B"
+		alt="Terminal-style typing animation introducing Venushan and tech stack"
 	/>
 </p>
 
 <p align="center">
 	<img
-		src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-		alt="Developer coding animation GIF"
-		width="800"
+		src="https://cataas.com/cat/gif"
+		alt="Animated cat GIF"
+		width="700"
 	/>
-	<br/>
-	<i>Building delightful products across React, Next.js, Node.js, Spring Boot, and more.</i>
 </p>
 
 ## 🌐 Socials:
