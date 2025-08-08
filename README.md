@@ -6,6 +6,16 @@
 	/>
 </p>
 
+<p align="center">
+	<img
+		src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+		alt="Developer coding animation GIF"
+		width="800"
+	/>
+	<br/>
+	<i>Building delightful products across React, Next.js, Node.js, Spring Boot, and more.</i>
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venushan-thiruchelvam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venushanthiruchelvam@gmail.com) 
 
